@@ -10,20 +10,20 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6281326116780']
-global.pengguna = 'Arzz Elite'
+global.owner = ['623821300679']
+global.pengguna = 'Aryaa Elite'
 global.premium = []
-global.author = 'Arzz Bot'
-global.pemilik = ['6281326116780'] 
-global.ownernomer = '6281326116780'
-global.ownername = 'Arzz Elite'
-global.botname = 'Arzz - Md'
+global.author = 'Aryaa Bot'
+global.pemilik = ['623821300679'] 
+global.ownernomer = '623821300679'
+global.ownername = 'Aryaa Elite'
+global.botname = 'Aryaa - Md'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6281326116780'
-global.footer = 'Arzz - Md'
+global.meki = '623821300679'
+global.footer = 'Aryaa - Md'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'Arzz' //Ubah nama kalian buat nambahin di tqtq bot
+global.namalu = 'Aryaa' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Bot.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.yt = 'https://youtu.be/xvFZjo5PgG0' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
